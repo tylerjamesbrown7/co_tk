@@ -3,9 +3,9 @@
     "path": "~/R/uc3m/colombia/R/make_crosswalk.R",
     "project_path": "R/make_crosswalk.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2525759857",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1687948237405.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "20"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687948256,
+    "lastKnownWriteTime": 1687955087,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687954050613,
+    "last_content_update": 1687955087086,
     "read_only": false,
     "read_only_alternatives": []
 }
