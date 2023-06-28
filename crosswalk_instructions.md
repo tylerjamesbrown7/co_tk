@@ -1,7 +1,7 @@
 How to construct the crosswalk
 ================
 Tyler Brown
-6/28/2023
+28.06.2023
 
 ## Inputs
 
