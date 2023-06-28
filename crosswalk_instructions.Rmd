@@ -2,7 +2,7 @@
 title: "How to construct the crosswalk"
 author: "Tyler Brown"
 date: "6/28/2023"
-output: html_document
+output: github_document
 ---
 
 ## Instructions
