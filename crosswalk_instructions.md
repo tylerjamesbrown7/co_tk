@@ -33,7 +33,7 @@ You will need:
     [here](https://guidowe.github.io/occupationcross/index.html). After
     installing this in the R file, you should be able to call
     `reclassify_to_isco08()` on `isco68_TO_isco88`. Two CNO-70 codes,
-    `49` and `70` will not transfer. I subsituted in the first
+    `49` and `70`, will not transfer. I subsituted in the first
     occupation in each category, which is not an issue as long as you
     use the Level 2 codes in the final analysis (which matches the
     CNO-70 structure anyway).
@@ -43,7 +43,7 @@ You will need:
     populate all codes, but it is helpful for readability.
 
 5.  Finally, you can generate the output `.csv` file. When merging, you
-    should use the column isco08_l2 in order to avoid issues with some
+    should use the column `isco08_l2` in order to avoid issues with some
     of the missing occupations. (In the future, I can try to repair the
     broken codes). Since the ISCO structure is hierarchical, there won’t
     be an issue at higher levels. Between versions, some occupations
