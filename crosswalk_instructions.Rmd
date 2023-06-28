@@ -5,6 +5,15 @@ date: "6/28/2023"
 output: github_document
 ---
 
+## Inputs
+
+All inputs are in a folder in the GitHub repository [``~/input``](https://github.com/tylerjamesbrown7/co_tk/tree/96052d8bcd845533dcea3d6e7d44cb88c3595309/input).
+
+You will need:
+
+- ``isco68_TO_isco88.xlsx``
+- ``crosswalk_oficio_isco.xlsx``
+
 ## Instructions
 
 1. [This paper](https://repository.urosario.edu.co/server/api/core/bitstreams/d4925f02-0c79-4671-8013-aeba548c854b/content) had a workflow for linking ISCO-08 codes to the Colombian CNO-70 codes. 

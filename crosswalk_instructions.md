@@ -3,6 +3,16 @@ How to construct the crosswalk
 Tyler Brown
 6/28/2023
 
+## Inputs
+
+All inputs are in a folder in the GitHub repository
+[`~/input`](https://github.com/tylerjamesbrown7/co_tk/tree/96052d8bcd845533dcea3d6e7d44cb88c3595309/input).
+
+You will need:
+
+-   `isco68_TO_isco88.xlsx`
+-   `crosswalk_oficio_isco.xlsx`
+
 ## Instructions
 
 1.  [This
